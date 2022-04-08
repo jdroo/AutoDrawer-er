@@ -11,7 +11,6 @@ Please see the original wiki for how to use it: https://github.com/rainzhao2000/
 https://github.com/jdroo/autodrawer-er/releases/tag/ForkRelease
 
 
-![AutoDrawer-er_6qVtCeMyoJ](https://user-images.githubusercontent.com/13055804/162343567-27be25a2-eb09-4871-a4b2-4e8d8013845b.png)
-
+![AutoDrawer-er_j2wp5vuhSL](https://user-images.githubusercontent.com/13055804/162347760-1b156050-12db-4f1a-9580-3031b1189626.png)
 
 ![firefox_NHB0PGsXRW](https://user-images.githubusercontent.com/13055804/162343705-6541de1c-78a8-4459-8ad1-f61070510655.png)
