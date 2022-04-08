@@ -2,7 +2,9 @@
 
 Auto drawer is a program that draws an image by controlling mouse movement and mouse clicks. Original logic by CoePSX on Autoit.
 
-Renamed to Auto Drawer-er with added rando features I thought would be nice!
+Forked from https://github.com/rainzhao2000/autodrawer
+
+Renamed to Auto Drawer-er instead of giving it a version number for lulz, This ones the same but with added rando features I thought would be nice!
 
 Please see the original wiki for how to use it: https://github.com/rainzhao2000/autodrawer/wiki
 
