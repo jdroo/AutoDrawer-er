@@ -327,7 +327,7 @@
             this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(0, 12, 0, 0);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(288, 51);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(261, 51);
             this.flowLayoutPanel1.TabIndex = 3;
             // 
             // label6
@@ -355,11 +355,11 @@
             this.flowLayoutPanel2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.flowLayoutPanel2.Controls.Add(this.label7);
             this.flowLayoutPanel2.Controls.Add(this.heightInput);
-            this.flowLayoutPanel2.Location = new System.Drawing.Point(462, 502);
+            this.flowLayoutPanel2.Location = new System.Drawing.Point(490, 502);
             this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanel2.Name = "flowLayoutPanel2";
             this.flowLayoutPanel2.Padding = new System.Windows.Forms.Padding(0, 12, 0, 0);
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(288, 51);
+            this.flowLayoutPanel2.Size = new System.Drawing.Size(260, 51);
             this.flowLayoutPanel2.TabIndex = 4;
             // 
             // label7
@@ -375,6 +375,7 @@
             // 
             // heightInput
             // 
+            this.heightInput.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.heightInput.Location = new System.Drawing.Point(44, 14);
             this.heightInput.Margin = new System.Windows.Forms.Padding(2);
             this.heightInput.Name = "heightInput";
