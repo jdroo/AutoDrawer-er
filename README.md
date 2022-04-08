@@ -12,7 +12,7 @@ Changes I've Made So Far:
 
 1. Changed the default presetting of Interval from 1000, to 100000. As not to freak people out with a crazy scribblebot upon leaving the setting default.
 2. Changed some of the button labels, nothing major.
-3. Changed the preview window look a bit, gave it a border, made it have opacity so you could see under it, and swapped some text around
+3. Changed the area select preview window's look a bit, gave it a border, made it have opacity so you could see under it, and swapped some text around
 4. Fixed the offset of the area select window, before it was off by a lot from the preview image when it started to draw, no more offset issues!
 5. Gave it a cute red pencil as an icon, i unno, i'll think of something better later!
 
