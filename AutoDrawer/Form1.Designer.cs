@@ -66,6 +66,7 @@
             // 
             // tableLayoutPanel1
             // 
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
@@ -76,25 +77,26 @@
             this.tableLayoutPanel1.Controls.Add(this.flowLayoutPanel2, 1, 2);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 3;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 24.24242F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 65.59715F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(584, 561);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(752, 555);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tableLayoutPanel1.SetColumnSpan(this.pictureBox1, 2);
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Location = new System.Drawing.Point(2, 138);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(2, 136);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(580, 364);
+            this.pictureBox1.Size = new System.Drawing.Size(748, 360);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -109,17 +111,16 @@
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.clearButton);
             this.panel1.Controls.Add(this.uploadButton);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(2, 2);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(288, 132);
+            this.panel1.Size = new System.Drawing.Size(288, 128);
             this.panel1.TabIndex = 1;
             // 
             // transThreshNumeric
             // 
-            this.transThreshNumeric.Location = new System.Drawing.Point(214, 108);
-            this.transThreshNumeric.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.transThreshNumeric.Location = new System.Drawing.Point(214, 103);
+            this.transThreshNumeric.Margin = new System.Windows.Forms.Padding(2);
             this.transThreshNumeric.Maximum = new decimal(new int[] {
             255,
             0,
@@ -138,7 +139,7 @@
             // blackThreshNumeric
             // 
             this.blackThreshNumeric.Location = new System.Drawing.Point(214, 81);
-            this.blackThreshNumeric.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.blackThreshNumeric.Margin = new System.Windows.Forms.Padding(2);
             this.blackThreshNumeric.Maximum = new decimal(new int[] {
             255,
             0,
@@ -158,7 +159,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(6, 108);
+            this.label4.Location = new System.Drawing.Point(9, 103);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(182, 15);
@@ -168,7 +169,7 @@
             // intervalInput
             // 
             this.intervalInput.Location = new System.Drawing.Point(183, 57);
-            this.intervalInput.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.intervalInput.Margin = new System.Windows.Forms.Padding(2);
             this.intervalInput.MaxLength = 10;
             this.intervalInput.Name = "intervalInput";
             this.intervalInput.Size = new System.Drawing.Size(94, 20);
@@ -204,7 +205,7 @@
             this.clearButton.Dock = System.Windows.Forms.DockStyle.Top;
             this.clearButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.clearButton.Location = new System.Drawing.Point(0, 25);
-            this.clearButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.clearButton.Margin = new System.Windows.Forms.Padding(2);
             this.clearButton.Name = "clearButton";
             this.clearButton.Size = new System.Drawing.Size(288, 25);
             this.clearButton.TabIndex = 1;
@@ -218,7 +219,7 @@
             this.uploadButton.Dock = System.Windows.Forms.DockStyle.Top;
             this.uploadButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.uploadButton.Location = new System.Drawing.Point(0, 0);
-            this.uploadButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.uploadButton.Margin = new System.Windows.Forms.Padding(2);
             this.uploadButton.Name = "uploadButton";
             this.uploadButton.Size = new System.Drawing.Size(288, 25);
             this.uploadButton.TabIndex = 0;
@@ -228,24 +229,24 @@
             // 
             // panel2
             // 
+            this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.panel2.Controls.Add(this.customButton);
             this.panel2.Controls.Add(this.label8);
             this.panel2.Controls.Add(this.pathList);
             this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.processButton);
             this.panel2.Controls.Add(this.startButton);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(294, 2);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel2.Location = new System.Drawing.Point(462, 2);
+            this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(288, 132);
+            this.panel2.Size = new System.Drawing.Size(288, 128);
             this.panel2.TabIndex = 2;
             // 
             // customButton
             // 
             this.customButton.AutoSize = true;
-            this.customButton.Location = new System.Drawing.Point(20, 103);
-            this.customButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.customButton.Location = new System.Drawing.Point(11, 98);
+            this.customButton.Margin = new System.Windows.Forms.Padding(2);
             this.customButton.Name = "customButton";
             this.customButton.Size = new System.Drawing.Size(92, 23);
             this.customButton.TabIndex = 11;
@@ -270,7 +271,7 @@
             this.pathList.DisplayMember = "name";
             this.pathList.FormattingEnabled = true;
             this.pathList.Location = new System.Drawing.Point(121, 85);
-            this.pathList.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pathList.Margin = new System.Windows.Forms.Padding(2);
             this.pathList.Name = "pathList";
             this.pathList.Size = new System.Drawing.Size(149, 43);
             this.pathList.TabIndex = 9;
@@ -281,7 +282,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(17, 83);
+            this.label5.Location = new System.Drawing.Point(8, 81);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(101, 15);
@@ -294,7 +295,7 @@
             this.processButton.Dock = System.Windows.Forms.DockStyle.Top;
             this.processButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.processButton.Location = new System.Drawing.Point(0, 25);
-            this.processButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.processButton.Margin = new System.Windows.Forms.Padding(2);
             this.processButton.Name = "processButton";
             this.processButton.Size = new System.Drawing.Size(288, 25);
             this.processButton.TabIndex = 3;
@@ -308,7 +309,7 @@
             this.startButton.Dock = System.Windows.Forms.DockStyle.Top;
             this.startButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.startButton.Location = new System.Drawing.Point(0, 0);
-            this.startButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.startButton.Margin = new System.Windows.Forms.Padding(2);
             this.startButton.Name = "startButton";
             this.startButton.Size = new System.Drawing.Size(288, 25);
             this.startButton.TabIndex = 2;
@@ -318,14 +319,15 @@
             // 
             // flowLayoutPanel1
             // 
+            this.flowLayoutPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.flowLayoutPanel1.AutoScroll = true;
             this.flowLayoutPanel1.Controls.Add(this.label6);
             this.flowLayoutPanel1.Controls.Add(this.widthInput);
-            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(2, 506);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(2, 502);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(0, 12, 0, 0);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(288, 53);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(288, 51);
             this.flowLayoutPanel1.TabIndex = 3;
             // 
             // label6
@@ -342,7 +344,7 @@
             // widthInput
             // 
             this.widthInput.Location = new System.Drawing.Point(41, 14);
-            this.widthInput.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.widthInput.Margin = new System.Windows.Forms.Padding(2);
             this.widthInput.Name = "widthInput";
             this.widthInput.Size = new System.Drawing.Size(207, 20);
             this.widthInput.TabIndex = 1;
@@ -350,14 +352,14 @@
             // 
             // flowLayoutPanel2
             // 
+            this.flowLayoutPanel2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.flowLayoutPanel2.Controls.Add(this.label7);
             this.flowLayoutPanel2.Controls.Add(this.heightInput);
-            this.flowLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel2.Location = new System.Drawing.Point(294, 506);
-            this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.flowLayoutPanel2.Location = new System.Drawing.Point(462, 502);
+            this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanel2.Name = "flowLayoutPanel2";
             this.flowLayoutPanel2.Padding = new System.Windows.Forms.Padding(0, 12, 0, 0);
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(288, 53);
+            this.flowLayoutPanel2.Size = new System.Drawing.Size(288, 51);
             this.flowLayoutPanel2.TabIndex = 4;
             // 
             // label7
@@ -374,7 +376,7 @@
             // heightInput
             // 
             this.heightInput.Location = new System.Drawing.Point(44, 14);
-            this.heightInput.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.heightInput.Margin = new System.Windows.Forms.Padding(2);
             this.heightInput.Name = "heightInput";
             this.heightInput.Size = new System.Drawing.Size(205, 20);
             this.heightInput.TabIndex = 2;
@@ -391,11 +393,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(584, 561);
+            this.ClientSize = new System.Drawing.Size(752, 555);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.MinimumSize = new System.Drawing.Size(768, 594);
             this.Name = "Form1";
             this.Text = "AutoDrawer-er";
             this.Load += new System.EventHandler(this.Form1_Load);
