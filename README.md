@@ -8,6 +8,8 @@ Renamed to Auto Drawer-er instead of giving it a version number for lulz, This o
 
 Please see the original wiki for how to use it: https://github.com/rainzhao2000/autodrawer/wiki
 
+https://github.com/jdroo/autodrawer-er/releases/tag/ForkRelease
+
 
 ![AutoDrawer-er_6qVtCeMyoJ](https://user-images.githubusercontent.com/13055804/162343567-27be25a2-eb09-4871-a4b2-4e8d8013845b.png)
 
