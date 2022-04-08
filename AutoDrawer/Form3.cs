@@ -3,7 +3,7 @@ using System.Data;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace AutoDrawerer
+namespace AutoDrawer
 {
     public partial class Form3 : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace AutoDrawerer
+﻿namespace AutoDrawer
 {
     partial class Form2
     {

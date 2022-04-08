@@ -7,8 +7,8 @@
     <ProjectGuid>{77710A9C-6AAD-496B-8C07-A5892FD1E995}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutoDrawer-er</RootNamespace>
-    <AssemblyName>AutoDrawer-er</AssemblyName>
+    <RootNamespace>AutoDrawer</RootNamespace>
+    <AssemblyName>AutoDrawerer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

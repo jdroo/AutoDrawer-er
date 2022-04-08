@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AutoDrawerer.Properties {
+namespace AutoDrawer.Properties {
     using System;
     
     

@@ -525,11 +525,6 @@ new float[] {0, 0, 0, 0, 1}
                 Console.WriteLine();
             }
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 
     class Position
