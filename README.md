@@ -10,6 +10,7 @@ Please see the original wiki for how to use it: https://github.com/rainzhao2000/
 
 https://github.com/jdroo/autodrawer-er/releases/tag/ForkRelease
 
+![AutoDrawer-er(2)_4qZ2pky2lY](https://user-images.githubusercontent.com/13055804/162426894-cb905503-eab0-41b3-9ff1-8f808fc6e55c.png)
 
 ![AutoDrawer-er_j2wp5vuhSL](https://user-images.githubusercontent.com/13055804/162347760-1b156050-12db-4f1a-9580-3031b1189626.png)
 
