@@ -19,3 +19,16 @@ E:\rain\projects\autodrawer\AutoDrawer\obj\Debug\AutoDrawer.Form2.resources
 E:\rain\projects\autodrawer\AutoDrawer\obj\Debug\AutoDrawer.Properties.Resources.resources
 E:\rain\projects\autodrawer\AutoDrawer\obj\Debug\AutoDrawer.csproj.GenerateResource.Cache
 E:\rain\projects\autodrawer\AutoDrawer\obj\Debug\AutoDrawer.Form3.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.csproj.SuggestedBindingRedirects.cache
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.Form1.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.Form2.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.Form3.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.Properties.Resources.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.csproj.GenerateResource.cache
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.csproj.CoreCompileInputs.cache
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\bin\Debug\AutoDrawer.exe.config
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\bin\Debug\AutoDrawer.exe
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\bin\Debug\AutoDrawer.pdb
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.exe
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.pdb
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer.csproj.AssemblyReference.cache

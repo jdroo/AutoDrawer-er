@@ -1,0 +1,12 @@
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer-er.csproj.SuggestedBindingRedirects.cache
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer-er.csproj.GenerateResource.cache
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer-er.csproj.CoreCompileInputs.cache
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawerer.Form1.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawerer.Form2.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawerer.Form3.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\bin\Debug\AutoDrawer-er.exe.config
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\bin\Debug\AutoDrawer-er.exe
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\bin\Debug\AutoDrawer-er.pdb
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer-er.Properties.Resources.resources
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer-er.exe
+J:\[PROGRAMZ]\autodraw stuff\autodrawer-master 2022\AutoDrawer\obj\Debug\AutoDrawer-er.pdb

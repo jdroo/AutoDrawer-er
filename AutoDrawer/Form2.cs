@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
 
-namespace AutoDrawer
+namespace AutoDrawerer
 {
     public partial class Form2 : Form
     {
@@ -14,11 +14,13 @@ namespace AutoDrawer
             {
                 pictureBox1.Anchor = AnchorStyles.None;
                 CenterPictureBox(pictureBox1, imagePreview);
+                this.Opacity = 0.5;
 
             }
             else
             {
                 pictureBox1.Image = imagePreview;
+                this.Opacity = 0.5;
             }
         }
 
@@ -28,6 +30,11 @@ namespace AutoDrawer
             picBox.Location = new Point((picBox.Parent.ClientSize.Width / 2) - (picImage.Width / 2),
                                         (picBox.Parent.ClientSize.Height / 2) - (picImage.Height / 2));
             picBox.Refresh();
+        }
+
+        private void label1_Click(object sender, System.EventArgs e)
+        {
+
         }
     }
 }

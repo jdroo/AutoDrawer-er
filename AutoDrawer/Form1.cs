@@ -8,7 +8,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace AutoDrawer
+namespace AutoDrawerer
 {
     public partial class Form1 : Form
     {
@@ -524,6 +524,11 @@ new float[] {0, 0, 0, 0, 1}
                 }
                 Console.WriteLine();
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 
